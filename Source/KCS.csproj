@@ -52,11 +52,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CrewAspect.cs" />
-    <Compile Include="CrewAspectDiscipline.cs" />
-    <Compile Include="CrewAspectHealth.cs" />
-    <Compile Include="CrewAspectLifeSupport.cs" />
-    <Compile Include="CrewAspectMorale.cs" />
     <Compile Include="KCS.cs" />
     <Compile Include="CLLSConsumer.cs" />
     <Compile Include="CLLSGenerator.cs" />
